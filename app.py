@@ -171,4 +171,4 @@ with st.expander("About the Model"):
 
 # Footer
 st.markdown("---")
-st.markdown("### Created for NeuroNexus Internship Project")
+st.markdown("### Created for practice")
